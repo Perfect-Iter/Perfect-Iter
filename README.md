@@ -3,13 +3,13 @@
 
 
 
-- 🔭 I’m currently working on **Django Projects**
+- 🔭 I’m currently working on **Django and PHP Projects**
 
-- 🌱 I’m currently learning **Laravel, React**
+- 🌱 I’m currently learning **Laravel, react native, unity**
 
 - 👯 I’m looking to collaborate on **Web Projects or API**
 
-- 💬 Ask me about **Django, Data science**
+- 💬 Ask me about **python, php, unity, Data science**
 
 - 📫 How to reach me **barazaruben.br@gmail.com**
 
