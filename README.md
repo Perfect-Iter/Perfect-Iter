@@ -3,18 +3,6 @@
 
 
 
-- 🔭 I’m currently working on **Django and PHP Projects**
-
-- 🌱 I’m currently learning **Laravel, react native, unity**
-
-- 👯 I’m looking to collaborate on **Web Projects or API**
-
-- 💬 Ask me about **python, php, unity, Data science**
-
-- 📫 How to reach me **barazaruben.br@gmail.com**
-
-- ⚡ Fun fact **i like cats**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hysien54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hysien54" height="30" width="40" /></a>
