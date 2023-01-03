@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruben Barazza</h1>
-<h3 align="center">A passionate Software Engineer from Kenya</h3>
+<h3 align="center">A Software Engineer from Kenya</h3>
 
 
 
