@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruben Barazza</h1>
 <h3 align="center">
   🌟 Software Developer | Full-Stack Enthusiast
-💻 Passionate about crafting scalable and efficient applications with Laravel, Javascript, Python, and Spring Boot.
-🚀 Currently mastering JavaScript, PhP, TypeScript, Node.js, and React/React Native to build robust web and mobile solutions.
-🔍 Proficient in writing clean, testable code.
-📚 Always learning, always building—focused on mastering my craft.
 </h3>
 
 
